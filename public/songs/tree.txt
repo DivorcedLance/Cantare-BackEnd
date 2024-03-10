@@ -1,0 +1,47 @@
+Listado de rutas de carpetas para el volumen Nuevo vol
+El n£mero de serie del volumen es 0A73-DB86
+D:.
+³   tree.txt
+³   
+ÃÄÄÄBandalos Chinos - Mi Fiesta
+³       01 - Mi Fiesta.lrc
+³       01 - Mi Fiesta.mp3
+³       cover.jpg
+³       
+ÃÄÄÄGativideo - Flota Flota
+³       01 - Flota Flota.lrc
+³       01 - Flota Flota.mp3
+³       cover.jpg
+³       
+ÃÄÄÄLa Garfield - Todo Lo Rico
+³       02 - Luna de Plata.lrc
+³       02 - Luna de Plata.mp3
+³       cover.jpg
+³       
+ÃÄÄÄMIEL - EME
+³       01 - EME.lrc
+³       01 - EME.mp3
+³       cover.jpg
+³       
+ÃÄÄÄTWICE - CRY FOR ME
+³       01 - CRY FOR ME.lrc
+³       01 - CRY FOR ME.mp3
+³       cover.jpg
+³       
+ÃÄÄÄTWICE - Formula of Love_ O+T=_3
+³       03 - ICON.lrc
+³       03 - ICON.mp3
+³       15 - The Feels.lrc
+³       15 - The Feels.mp3
+³       cover.jpg
+³       
+ÃÄÄÄTWICE - MOONLIGHT SUNRISE
+³       01 - MOONLIGHT SUNRISE.lrc
+³       01 - MOONLIGHT SUNRISE.mp3
+³       cover.jpg
+³       
+ÀÄÄÄTWICE - Taste of Love
+        01 - Alcohol-Free.lrc
+        01 - Alcohol-Free.mp3
+        cover.jpg
+        
